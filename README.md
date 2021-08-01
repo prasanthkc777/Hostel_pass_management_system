@@ -8,7 +8,7 @@ this is my first mini project with my basic knowledge in php,html,css,bootstrap 
  
  set the creater account in admin table.
  
- open the mainpage.html file
+ open the mainpage.php file
  
  run & use.
  
