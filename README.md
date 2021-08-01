@@ -8,6 +8,8 @@ this is my first mini project with my basic knowledge in php,html,css,bootstrap 
  
  set the creater account in admin table.
  
+ open the mainpage.html file
+ 
  run & use.
  
  (note: this is created with my basic knowledge , ignore errors & mistakes. if you want to modify it, no objections for me)
