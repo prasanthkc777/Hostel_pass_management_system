@@ -10,6 +10,8 @@ this is my first mini project with my basic knowledge in php,html,css,bootstrap 
  
  open the mainpage.php file
  
+ otp part don't work, so sign up & go straightly to login
+ 
  run & use.
  
  (note: this is created with my basic knowledge , ignore errors & mistakes. if you want to modify it, no objections for me)
